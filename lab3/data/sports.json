@@ -6,42 +6,42 @@
       "name": "Велосипед CityRider 26",
       "shortname": "cityrider26",
       "description": "Міський велосипед із алюмінієвою рамою, 21 швидкістю та зручним сідлом. Ідеальний для поїздок містом.",
-      "price": 8900
+      "price": 7999
     },
     {
       "id": 2,
       "name": "Йога-килимок EcoFlow",
       "shortname": "ecoflow-mat",
       "description": "Нековзний килимок для йоги та фітнесу з натурального каучуку. Розмір 183×61 см, товщина 6 мм.",
-      "price": 750
+      "price": 699
     },
     {
       "id": 3,
       "name": "Гантелі PowerSet 10 кг",
       "shortname": "powerset-10",
       "description": "Пара гантелей по 5 кг кожна. Гумоване покриття, зручне захоплення. Lorem ipsum dolor sit amet.",
-      "price": 1200
+      "price": 1099
     },
     {
       "id": 4,
       "name": "Намет TrekDome 3",
       "shortname": "trekdome3",
       "description": "Тримісний туристичний намет із водонепроникного нейлону. Швидке встановлення за 5 хвилин.",
-      "price": 4500
+      "price": 4199
     },
     {
       "id": 5,
       "name": "Плавальні окуляри AquaVision",
       "shortname": "aquavision",
       "description": "Окуляри для плавання з UV-захистом та широким кутом огляду. Антизапотівальне покриття.",
-      "price": 420
+      "price": 389
     },
     {
       "id": 6,
       "name": "Скакалка SpeedRope Pro",
       "shortname": "speedrope-pro",
       "description": "Професійна скакалка зі сталевим тросом та підшипниками. Регульована довжина 2.5–3 м.",
-      "price": 380
+      "price": 359
     }
   ]
 }

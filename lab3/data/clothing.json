@@ -6,42 +6,42 @@
       "name": "Куртка Alpine Trek",
       "shortname": "alpine-trek",
       "description": "Тепла куртка з водовідштовхувальним покриттям, ідеальна для походів та активного відпочинку на природі.",
-      "price": 2890
+      "price": 2599
     },
     {
       "id": 2,
       "name": "Джинси ClassicFit",
       "shortname": "classicfit",
       "description": "Класичні джинси прямого крою з преміум денімом. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "price": 1250
+      "price": 1099
     },
     {
       "id": 3,
       "name": "Футболка CottonSoft",
       "shortname": "cottonsoft",
       "description": "100% органічна бавовна, м'яка на дотик, доступна у 12 кольорах. Ідеальна для щоденного носіння.",
-      "price": 450
+      "price": 399
     },
     {
       "id": 4,
       "name": "Кросівки UrbanRun",
       "shortname": "urbanrun",
       "description": "Легкі та зручні кросівки для міських прогулянок та бігу. Підошва з амортизацією.",
-      "price": 3200
+      "price": 2899
     },
     {
       "id": 5,
       "name": "Шапка WoolCraft",
       "shortname": "woolcraft",
       "description": "В'язана шапка з натуральної мериносової вовни. Тепла, стильна та гіпоалергенна.",
-      "price": 380
+      "price": 349
     },
     {
       "id": 6,
       "name": "Шарф CashmereBlend",
       "shortname": "cashmereblend",
       "description": "Елегантний шарф із суміші кашеміру та вовни. Розмір 180×30 см, доступний у 5 кольорах.",
-      "price": 690
+      "price": 649
     }
   ]
 }
