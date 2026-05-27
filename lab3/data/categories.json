@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Електроніка",
+      "shortname": "electronics",
+      "notes": "Найновіші гаджети, смартфони та пристрої для вашого комфорту."
+    },
+    {
+      "id": 2,
+      "name": "Одяг",
+      "shortname": "clothing",
+      "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Модний одяг для будь-якого стилю."
+    },
+    {
+      "id": 3,
+      "name": "Книги",
+      "shortname": "books",
+      "notes": "Широкий вибір літератури: від класики до сучасних бестселерів."
+    },
+    {
+      "id": 4,
+      "name": "Спорт та відпочинок",
+      "shortname": "sports",
+      "notes": ""
+    }
+  ]
+}

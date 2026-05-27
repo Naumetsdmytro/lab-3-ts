@@ -1,0 +1,40 @@
+{
+  "categoryName": "Електроніка",
+  "items": [
+    {
+      "id": 1,
+      "name": "Смартфон UltraX Pro",
+      "shortname": "ultrax-pro",
+      "description": "Потужний смартфон із 6.7\" AMOLED дисплеєм, 256 ГБ пам'яті та батареєю 5000 мАг. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 14999
+    },
+    {
+      "id": 2,
+      "name": "Бездротові навушники SoundWave",
+      "shortname": "soundwave",
+      "description": "Навушники з активним шумопоглинанням, автономністю до 30 годин та кристально чистим звуком.",
+      "price": 3499
+    },
+    {
+      "id": 3,
+      "name": "Ноутбук SlimBook 14",
+      "shortname": "slimbook14",
+      "description": "Ультратонкий ноутбук вагою 1.2 кг, процесор Intel Core i5, 16 ГБ ОЗП, SSD 512 ГБ.",
+      "price": 29990
+    },
+    {
+      "id": 4,
+      "name": "Розумний годинник FitTime",
+      "shortname": "fittime",
+      "description": "Смарт-годинник з моніторингом здоров'я, GPS, 7-денним режимом та водозахистом IP68.",
+      "price": 5999
+    },
+    {
+      "id": 5,
+      "name": "Планшет TabVision 10",
+      "shortname": "tabvision10",
+      "description": "10.5\" IPS-дисплей, 128 ГБ пам'яті, підтримка стілуса. Ідеально для навчання та роботи.",
+      "price": 12499
+    }
+  ]
+}
